@@ -9,7 +9,8 @@ OSS Client Proxy.
 ###腾讯云COS SDK
     - pip install tencentcloud-sdk-python-cvm
 ###金山云KS3 SDK
-    - pip install six
+    - pip install ks3sdk
+        - 前置依赖 pip install six
 
 ## 项目说明
 
